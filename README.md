@@ -21,7 +21,7 @@ To run the app on your local machine, follow these steps:
 1. Clone
  git clone **https://github.com/Hafiz-Saffiullah/whatsapp_ui_clone.git**
 2. Run the app using Flutter:
- flutter run
+ =>> **flutter run**
 
 # Features
 1. Generates a random number between 0 and 5 (inclusive) when the "Refresh" button is pressed.
